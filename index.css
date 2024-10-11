@@ -1,0 +1,13 @@
+body {
+	margin: 0px;
+	background-color: white;
+}
+
+card-header{
+  background: #99c291;
+  margin: 30px;
+}
+
+div.col-sm-5 pb-3 {
+    margin: 10px;
+}
